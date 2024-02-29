@@ -3,8 +3,8 @@
 ## Tech Stack
 2lambda123/viruses1 is built on the following main stack:
 
-- [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
 - [Assembly Language](https://en.wikipedia.org/wiki/Assembly_language) – Languages
+- [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
 - [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language)) – Languages
 
 Full tech stack [here](/techstack.md)
@@ -15,8 +15,8 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 2lambda123/viruses1 is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='C lang'/> [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/4934/default_71f18bbdc61fb88cefb66415bb55dc6f1e60e5ec.png' alt='Assembly Language'/> [Assembly Language](https://en.wikipedia.org/wiki/Assembly_language) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='C lang'/> [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/25462/default_b93b3ffaf8650f0584d7b2e14dd145f599722cae.png' alt='Pascal'/> [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language)) – Languages
 
 Full tech stack [here](/techstack.md)
@@ -28,7 +28,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/viruses1](https://github.com/2lambda123/viruses1)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|4<br/>Tools used|01/09/24 <br/>Report generated|
+|4<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
